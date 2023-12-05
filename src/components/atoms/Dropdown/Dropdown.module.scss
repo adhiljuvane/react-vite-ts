@@ -1,0 +1,8 @@
+.dropdownContent {
+  display: flex;
+  flex-direction: column;
+
+  .label {
+    margin-bottom: $margin-4;
+  }
+}
